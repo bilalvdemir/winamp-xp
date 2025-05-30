@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/winamp-xp-site/static/css/main.a15ba05e.css",
     "main.js": "/winamp-xp-site/static/js/main.bb3b10b2.js",
     "static/js/843.6cc868b9.chunk.js": "/winamp-xp-site/static/js/843.6cc868b9.chunk.js",
@@ -28,6 +29,36 @@
     "static/media/smile.svg": "/winamp-xp-site/static/media/smile.45b54b9d335aea400da0859475daa434.svg",
     "index.html": "/winamp-xp-site/index.html",
     "static/media/find.svg": "/winamp-xp-site/static/media/find.303b87f499358979b1c66a3da1584e67.svg"
+=======
+    "main.css": "/static/css/main.a15ba05e.css",
+    "main.js": "/static/js/main.71b064d6.js",
+    "winamp-xp-site/static/js/843.6cc868b9.chunk.js": "/static/js/843.6cc868b9.chunk.js",
+    "winamp-xp-site/static/js/102.7bf0dd3d.chunk.js": "/static/js/102.7bf0dd3d.chunk.js",
+    "winamp-xp-site/static/js/516.bef23cf3.chunk.js": "/static/js/516.bef23cf3.chunk.js",
+    "winamp-xp-site/static/media/MacOSXAqua1-5.wsz": "/static/media/MacOSXAqua1-5.332151ccd24e9858d0f7.wsz",
+    "winamp-xp-site/static/media/Vizor1-01.wsz": "/static/media/Vizor1-01.136a35f07df141b6817f.wsz",
+    "winamp-xp-site/static/media/Winamp5_Classified_v5.5.wsz": "/static/media/Winamp5_Classified_v5.5.4e20a60460b1b29258a8.wsz",
+    "winamp-xp-site/static/media/music-forever.wsz": "/static/media/music-forever.032462fa592101a6f623.wsz",
+    "winamp-xp-site/static/media/Blue_Metrix.wsz": "/static/media/Blue_Metrix.97ddd7ae56f961fa7813.wsz",
+    "winamp-xp-site/static/media/NeoX.wsz": "/static/media/NeoX.aa0767059eb5c3b5d89a.wsz",
+    "winamp-xp-site/static/media/Sonic_Attitude.wsz": "/static/media/Sonic_Attitude.c6004b3d98853904ba5c.wsz",
+    "winamp-xp-site/static/media/ZaxonRemake1-0.wsz": "/static/media/ZaxonRemake1-0.78c4ddff207c34520341.wsz",
+    "winamp-xp-site/static/media/Internet-Archive.wsz": "/static/media/Internet-Archive.c5223032819fad677001.wsz",
+    "winamp-xp-site/static/media/Sony CDX-MP3.wsz": "/static/media/Sony CDX-MP3.7a9a58a74d312bb26584.wsz",
+    "winamp-xp-site/static/media/base-2.91.wsz": "/static/media/base-2.91.940a72ed7a95ae19b296.wsz",
+    "winamp-xp-site/static/media/TopazAmp1-2.wsz": "/static/media/TopazAmp1-2.764bca303327a5b26230.wsz",
+    "winamp-xp-site/static/media/Green-Dimension-V2.wsz": "/static/media/Green-Dimension-V2.252a2089f818e6d4016f.wsz",
+    "winamp-xp-site/static/media/XMMS-Turquoise.wsz": "/static/media/XMMS-Turquoise.5c4d837e567b90184b7d.wsz",
+    "winamp-xp-site/static/media/error.wav": "/static/media/error.c8da1695dd177fc9e8ec.wav",
+    "winamp-xp-site/static/media/narrator.ico": "/static/media/narrator.aeadcf16c506a1b17f3e.ico",
+    "winamp-xp-site/static/media/restart.ico": "/static/media/restart.dc491046c84e4c14e552.ico",
+    "winamp-xp-site/static/media/all-programs.ico": "/static/media/all-programs.bcaf5973986a068c6a92.ico",
+    "winamp-xp-site/static/media/restore.ico": "/static/media/restore.13115734763eedd58881.ico",
+    "winamp-xp-site/static/media/view-info.ico": "/static/media/view-info.5e4c445dd01928577a8f.ico",
+    "winamp-xp-site/static/media/smile.svg": "/static/media/smile.45b54b9d335aea400da0859475daa434.svg",
+    "winamp-xp-site/index.html": "/index.html",
+    "winamp-xp-site/static/media/find.svg": "/static/media/find.303b87f499358979b1c66a3da1584e67.svg"
+>>>>>>> 9918404d52ffd663cef7ff996115d2325524837f
   },
   "entrypoints": [
     "static/css/main.a15ba05e.css",
