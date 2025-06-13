@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/winamp-xp-site/static/css/main.a15ba05e.css",
-    "main.js": "/winamp-xp-site/static/js/main.34cad455.js",
+    "main.js": "/winamp-xp-site/static/js/main.e836068e.js",
     "static/js/843.6cc868b9.chunk.js": "/winamp-xp-site/static/js/843.6cc868b9.chunk.js",
     "static/js/102.7bf0dd3d.chunk.js": "/winamp-xp-site/static/js/102.7bf0dd3d.chunk.js",
     "static/js/516.bef23cf3.chunk.js": "/winamp-xp-site/static/js/516.bef23cf3.chunk.js",
     "static/media/MacOSXAqua1-5.wsz": "/winamp-xp-site/static/media/MacOSXAqua1-5.332151ccd24e9858d0f7.wsz",
     "static/media/Vizor1-01.wsz": "/winamp-xp-site/static/media/Vizor1-01.136a35f07df141b6817f.wsz",
+    "static/media/windows-startup.mp3": "/winamp-xp-site/static/media/windows-startup.ca9e7870df0a8d4f81ed.mp3",
     "static/media/Winamp5_Classified_v5.5.wsz": "/winamp-xp-site/static/media/Winamp5_Classified_v5.5.4e20a60460b1b29258a8.wsz",
     "static/media/music-forever.wsz": "/winamp-xp-site/static/media/music-forever.032462fa592101a6f623.wsz",
     "static/media/Blue_Metrix.wsz": "/winamp-xp-site/static/media/Blue_Metrix.97ddd7ae56f961fa7813.wsz",
@@ -34,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.a15ba05e.css",
-    "static/js/main.34cad455.js"
+    "static/js/main.e836068e.js"
   ]
 }
