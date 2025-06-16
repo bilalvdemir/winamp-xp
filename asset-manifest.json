@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/winamp-xp/static/css/main.a15ba05e.css",
-    "main.js": "/winamp-xp/static/js/main.83ec78a9.js",
+    "main.js": "/winamp-xp/static/js/main.5b2b9549.js",
     "static/js/843.6cc868b9.chunk.js": "/winamp-xp/static/js/843.6cc868b9.chunk.js",
     "static/js/102.7bf0dd3d.chunk.js": "/winamp-xp/static/js/102.7bf0dd3d.chunk.js",
     "static/js/516.bef23cf3.chunk.js": "/winamp-xp/static/js/516.bef23cf3.chunk.js",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.a15ba05e.css",
-    "static/js/main.83ec78a9.js"
+    "static/js/main.5b2b9549.js"
   ]
 }
