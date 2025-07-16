@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/winamp-xp/static/css/main.a15ba05e.css",
-    "main.js": "/winamp-xp/static/js/main.764864a2.js",
+    "main.js": "/winamp-xp/static/js/main.d089c755.js",
     "static/js/843.6cc868b9.chunk.js": "/winamp-xp/static/js/843.6cc868b9.chunk.js",
     "static/js/102.7bf0dd3d.chunk.js": "/winamp-xp/static/js/102.7bf0dd3d.chunk.js",
     "static/js/516.bef23cf3.chunk.js": "/winamp-xp/static/js/516.bef23cf3.chunk.js",
@@ -11,6 +11,7 @@
     "static/media/Winamp5_Classified_v5.5.wsz": "/winamp-xp/static/media/Winamp5_Classified_v5.5.4e20a60460b1b29258a8.wsz",
     "static/media/music-forever.wsz": "/winamp-xp/static/media/music-forever.032462fa592101a6f623.wsz",
     "static/media/Blue_Metrix.wsz": "/winamp-xp/static/media/Blue_Metrix.97ddd7ae56f961fa7813.wsz",
+    "static/media/super-mario-bros.nes": "/winamp-xp/static/media/super-mario-bros.f55240d2e7f2dd600a84.nes",
     "static/media/NeoX.wsz": "/winamp-xp/static/media/NeoX.aa0767059eb5c3b5d89a.wsz",
     "static/media/Sonic_Attitude.wsz": "/winamp-xp/static/media/Sonic_Attitude.c6004b3d98853904ba5c.wsz",
     "static/media/ZaxonRemake1-0.wsz": "/winamp-xp/static/media/ZaxonRemake1-0.78c4ddff207c34520341.wsz",
@@ -35,6 +36,6 @@
   },
   "entrypoints": [
     "static/css/main.a15ba05e.css",
-    "static/js/main.764864a2.js"
+    "static/js/main.d089c755.js"
   ]
 }
