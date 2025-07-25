@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/winamp-xp/static/css/main.a15ba05e.css",
-    "main.js": "/winamp-xp/static/js/main.7a7abeca.js",
+    "main.js": "/winamp-xp/static/js/main.0afd74a8.js",
     "static/js/843.6cc868b9.chunk.js": "/winamp-xp/static/js/843.6cc868b9.chunk.js",
     "static/js/102.7bf0dd3d.chunk.js": "/winamp-xp/static/js/102.7bf0dd3d.chunk.js",
     "static/js/516.bef23cf3.chunk.js": "/winamp-xp/static/js/516.bef23cf3.chunk.js",
     "static/media/hudsons-adventure-island-4.jpg": "/winamp-xp/static/media/hudsons-adventure-island-4.56897f8c3a439f0026c6.jpg",
     "static/media/hudsons-adventure-island.png": "/winamp-xp/static/media/hudsons-adventure-island.b09f7b20bb73bdeef95c.png",
+    "static/media/3d-pinball.png": "/winamp-xp/static/media/3d-pinball.3c3163b9e2d391d84443.png",
     "static/media/hudsons-adventure-island-3.jpg": "/winamp-xp/static/media/hudsons-adventure-island-3.2b07db41c04a8e6b59d6.jpg",
     "static/media/nekketsu-street-basket.png": "/winamp-xp/static/media/nekketsu-street-basket.10a5b0f5ec90a2d4af37.png",
     "static/media/contra.png": "/winamp-xp/static/media/contra.451b387211ca05599240.png",
@@ -35,6 +36,7 @@
     "static/media/error.wav": "/winamp-xp/static/media/error.c8da1695dd177fc9e8ec.wav",
     "static/media/windows-xp-logo-white-text-transparent-bg-cropped.png": "/winamp-xp/static/media/windows-xp-logo-white-text-transparent-bg-cropped.bfec8db8fdfd4a5dad8c.png",
     "static/media/profile-picture-chess.png": "/winamp-xp/static/media/profile-picture-chess.8e0edeef466ddbc43229.png",
+    "static/media/half-life.png": "/winamp-xp/static/media/half-life.4d85548c682a1f062165.png",
     "static/media/battle-city.jpeg": "/winamp-xp/static/media/battle-city.48111be016d8a652ebba.jpeg",
     "static/media/narrator.ico": "/winamp-xp/static/media/narrator.aeadcf16c506a1b17f3e.ico",
     "static/media/snake-big.png": "/winamp-xp/static/media/snake-big.399d47be7b37d8bebf0b.png",
@@ -48,6 +50,6 @@
   },
   "entrypoints": [
     "static/css/main.a15ba05e.css",
-    "static/js/main.7a7abeca.js"
+    "static/js/main.0afd74a8.js"
   ]
 }
